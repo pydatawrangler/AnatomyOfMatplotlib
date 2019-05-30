@@ -4,6 +4,8 @@ the matplotlib library. Hopefully, this tutorial may serve as inspiration
 for future restructuring of the matplotlib documentation. Plus, I have some
 ideas of how to improve this tutorial.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pydatawrangler/AnatomyOfMatplotlib/master)
+
 Please fork and contribute back improvements! Feel free to use this tutorial
 for conferences and other opportunities for training.
 
